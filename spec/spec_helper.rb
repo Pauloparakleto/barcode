@@ -1,5 +1,5 @@
 # frozen_string_literal: true
-
+require 'pry'
 require "barcode"
 
 RSpec.configure do |config|
